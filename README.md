@@ -1,5 +1,5 @@
 # Symbolic-Execution-Testing-of-TCP-using-KLEE-Float
-Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem.
+Symbolic execution is not straightforward when floating point arithmetic is involved. KLEE-float is a good tool to combat this problem. Please refer to our project report for more details on the topic, including references.
 
 To run this project,
 1. Test code is provided in the Artifacts_Test_Evidence folder as test1_code(simple tutorial 
